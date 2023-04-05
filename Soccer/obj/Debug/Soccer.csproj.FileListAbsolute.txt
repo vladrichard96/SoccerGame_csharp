@@ -1,0 +1,12 @@
+D:\игры\Soccer\Soccer\bin\Debug\Soccer.exe.config
+D:\игры\Soccer\Soccer\bin\Debug\Soccer.exe
+D:\игры\Soccer\Soccer\bin\Debug\Soccer.pdb
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.csproj.AssemblyReference.cache
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.Form1.resources
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.exe
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.pdb
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.Form3.resources
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+D:\игры\Soccer\Soccer\obj\Debug\Soccer.Form2.resources
